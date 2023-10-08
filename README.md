@@ -1,0 +1,1 @@
+# rules_for_clash_and_shadowrocket
