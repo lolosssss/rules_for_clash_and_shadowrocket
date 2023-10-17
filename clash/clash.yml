@@ -572,6 +572,7 @@ rules:
   - DOMAIN-SUFFIX,soundcloud.com,Proxy
   - DOMAIN-SUFFIX,sourceforge.net,Proxy
   - DOMAIN-SUFFIX,spotify.com,Proxy
+  - DOMAIN-SUFFIX,spotifycdn.com,Proxy
   - DOMAIN-SUFFIX,squarespace.com,Proxy
   - DOMAIN-SUFFIX,sstatic.net,Proxy
   - DOMAIN-SUFFIX,st.luluku.pw,Proxy
