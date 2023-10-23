@@ -573,6 +573,7 @@ rules:
   - DOMAIN-SUFFIX,sourceforge.net,Proxy
   - DOMAIN-SUFFIX,spotify.com,Proxy
   - DOMAIN-SUFFIX,spotifycdn.com,Proxy
+  - DOMAIN-SUFFIX,audio-ak-spotify-com.akamaized.net,Proxy
   - DOMAIN-SUFFIX,squarespace.com,Proxy
   - DOMAIN-SUFFIX,sstatic.net,Proxy
   - DOMAIN-SUFFIX,st.luluku.pw,Proxy
