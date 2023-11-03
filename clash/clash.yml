@@ -468,6 +468,7 @@ rules:
   - DOMAIN-SUFFIX,ghostnoteapp.com,Proxy
   - DOMAIN-SUFFIX,git.io,Proxy
   - DOMAIN-KEYWORD,github,Proxy
+  - DOMAIN-SUFFIX,githubusercontent.com,Proxy
   - DOMAIN-SUFFIX,globalsign.com,Proxy
   - DOMAIN-SUFFIX,gmodules.com,Proxy
   - DOMAIN-SUFFIX,godaddy.com,Proxy
