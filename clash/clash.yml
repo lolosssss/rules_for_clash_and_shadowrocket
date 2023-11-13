@@ -652,6 +652,7 @@ rules:
   - DOMAIN-SUFFIX,proton.me,Proxy
   - DOMAIN-SUFFIX,protonmail.com,Proxy
   - DOMAIN-SUFFIX,meta.com,Proxy
+  - DOMAIN-SUFFIX,printables.com,Proxy
 
   # Telegram
   - DOMAIN-SUFFIX,telegra.ph,Proxy
