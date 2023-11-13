@@ -653,6 +653,7 @@ rules:
   - DOMAIN-SUFFIX,protonmail.com,Proxy
   - DOMAIN-SUFFIX,meta.com,Proxy
   - DOMAIN-SUFFIX,printables.com,Proxy
+  - DOMAIN-SUFFIX,sixcolors.com,Proxy
 
   # Telegram
   - DOMAIN-SUFFIX,telegra.ph,Proxy
