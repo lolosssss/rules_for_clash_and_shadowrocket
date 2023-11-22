@@ -662,6 +662,7 @@ rules:
   - DOMAIN-SUFFIX,substack.com,Proxy
   - DOMAIN-SUFFIX,threads.net,Proxy
   - DOMAIN-SUFFIX,blender.org,Proxy
+  - DOMAIN-SUFFIX,ycombinator.com,Proxy
 
   # Telegram
   - DOMAIN-SUFFIX,telegra.ph,Proxy
