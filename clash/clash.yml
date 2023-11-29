@@ -277,7 +277,6 @@ rules:
   - DOMAIN-SUFFIX,miwifi.com,DIRECT
   - DOMAIN-SUFFIX,mob.com,DIRECT
   - DOMAIN-SUFFIX,netease.com,DIRECT
-  - DOMAIN-SUFFIX,office.com,DIRECT
   - DOMAIN-SUFFIX,office365.com,DIRECT
   - DOMAIN-KEYWORD,officecdn,DIRECT
   - DOMAIN-SUFFIX,oschina.net,DIRECT
@@ -475,6 +474,7 @@ rules:
   - DOMAIN-KEYWORD,github,Proxy
   - DOMAIN-SUFFIX,github.com,Proxy
   - DOMAIN-SUFFIX,githubusercontent.com,Proxy
+  - DOMAIN-SUFFIX,raw.githubusercontent.com,Proxy
   - DOMAIN-SUFFIX,github.io,Proxy
   - DOMAIN-SUFFIX,globalsign.com,Proxy
   - DOMAIN-SUFFIX,gmodules.com,Proxy
@@ -518,7 +518,9 @@ rules:
   - DOMAIN-SUFFIX,littlehj.com,Proxy
   - DOMAIN-SUFFIX,live.com,Proxy
   - DOMAIN-SUFFIX,account.microsoft.com,Proxy
+  - DOMAIN-SUFFIX,copilot.microsoft.com,Proxy
   - DOMAIN-SUFFIX,edge.microsoft.com,Proxy
+  - DOMAIN-SUFFIX,substrate.office.com,Proxy
   - DOMAIN-SUFFIX,live.net,Proxy
   - DOMAIN-SUFFIX,livefilestore.com,Proxy
   - DOMAIN-SUFFIX,llnwd.net,Proxy
