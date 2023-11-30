@@ -672,7 +672,6 @@ rules:
   - DOMAIN-SUFFIX,pirate-bay.net,Proxy
   - DOMAIN-SUFFIX,substack.com,Proxy
   - DOMAIN-SUFFIX,threads.net,Proxy
-  - DOMAIN-SUFFIX,blender.org,Proxy
   - DOMAIN-SUFFIX,ycombinator.com,Proxy
   - DOMAIN-SUFFIX,arstechnica.com,Proxy
 
