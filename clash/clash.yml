@@ -674,6 +674,7 @@ rules:
   - DOMAIN-SUFFIX,threads.net,Proxy
   - DOMAIN-SUFFIX,ycombinator.com,Proxy
   - DOMAIN-SUFFIX,arstechnica.com,Proxy
+  - DOMAIN-SUFFIX,huggingface.co,Proxy
 
   # Telegram
   - DOMAIN-SUFFIX,t.me,Proxy
