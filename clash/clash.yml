@@ -663,13 +663,14 @@ rules:
   - DOMAIN-SUFFIX,proton.me,Proxy
   - DOMAIN-SUFFIX,protonmail.com,Proxy
   - DOMAIN-SUFFIX,meta.com,Proxy
+  - DOMAIN-SUFFIX,fb.com,Proxy
   - DOMAIN-SUFFIX,printables.com,Proxy
   - DOMAIN-SUFFIX,sixcolors.com,Proxy
   - DOMAIN-SUFFIX,newyorker.com,Proxy
   - DOMAIN-SUFFIX,openai.com,Proxy
   - DOMAIN-SUFFIX,oaistatic.com,Proxy
   - DOMAIN-SUFFIX,oaiusercontent.com,Proxy
-  - DOMAIN-SUFFIX,pirate-bay.net,Proxy
+  - DOMAIN-SUFFIX,pirate-bays.net,Proxy
   - DOMAIN-SUFFIX,substack.com,Proxy
   - DOMAIN-SUFFIX,threads.net,Proxy
   - DOMAIN-SUFFIX,ycombinator.com,Proxy
