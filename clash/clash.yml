@@ -336,6 +336,7 @@ rules:
   - DOMAIN-SUFFIX,zhimg.com,DIRECT
   - DOMAIN-SUFFIX,zimuzu.tv,DIRECT
   - DOMAIN-SUFFIX,zoho.com,DIRECT
+  - DOMAIN-SUFFIX,npmmirror.com,DIRECT
 
   # 抗 DNS 污染
   - DOMAIN-KEYWORD,amazon,Proxy
