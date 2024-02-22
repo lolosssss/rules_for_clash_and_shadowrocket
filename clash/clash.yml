@@ -498,7 +498,7 @@ rules:
   - DOMAIN-SUFFIX,iherb.com,Proxy
   - DOMAIN-SUFFIX,imageshack.us,Proxy
   - DOMAIN-SUFFIX,img.ly,Proxy
-  - DOMAIN-SUFFIX,imgur.com,DIRECT
+  - DOMAIN-SUFFIX,imgur.com,Proxy
   - DOMAIN-SUFFIX,imore.com,Proxy
   - DOMAIN-SUFFIX,instapaper.com,Proxy
   - DOMAIN-SUFFIX,ipn.li,Proxy
