@@ -678,6 +678,10 @@ rules:
   - DOMAIN-SUFFIX,ycombinator.com,Proxy
   - DOMAIN-SUFFIX,arstechnica.com,Proxy
   - DOMAIN-SUFFIX,huggingface.co,Proxy
+  - DOMAIN-SUFFIX,launchpadcontent.net,Proxy
+  - DOMAIN-SUFFIX,xue.cn,Proxy
+  - DOMAIN-SUFFIX,refractify.io,Proxy
+  - DOMAIN-SUFFIX,kottke.org,Proxy
 
   # Telegram
   - DOMAIN-SUFFIX,t.me,Proxy
