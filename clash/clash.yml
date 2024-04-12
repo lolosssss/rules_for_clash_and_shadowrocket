@@ -682,6 +682,7 @@ rules:
   - DOMAIN-SUFFIX,xue.cn,Proxy
   - DOMAIN-SUFFIX,refractify.io,Proxy
   - DOMAIN-SUFFIX,kottke.org,Proxy
+  - DOMAIN-SUFFIX,poast.org,Proxy
 
   # Telegram
   - DOMAIN-SUFFIX,t.me,Proxy
