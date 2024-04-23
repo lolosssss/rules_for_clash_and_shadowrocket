@@ -683,6 +683,7 @@ rules:
   - DOMAIN-SUFFIX,refractify.io,Proxy
   - DOMAIN-SUFFIX,kottke.org,Proxy
   - DOMAIN-SUFFIX,poast.org,Proxy
+  - DOMAIN-SUFFIX,buff.ly,Proxy
 
   # Telegram
   - DOMAIN-SUFFIX,t.me,Proxy
