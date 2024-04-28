@@ -684,6 +684,7 @@ rules:
   - DOMAIN-SUFFIX,kottke.org,Proxy
   - DOMAIN-SUFFIX,poast.org,Proxy
   - DOMAIN-SUFFIX,buff.ly,Proxy
+  - DOMAIN-SUFFIX,hk01.com,Proxy
 
   # Telegram
   - DOMAIN-SUFFIX,t.me,Proxy
