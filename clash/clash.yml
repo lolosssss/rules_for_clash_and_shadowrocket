@@ -688,6 +688,7 @@ rules:
   - DOMAIN-SUFFIX,vercel.app,Proxy
   - DOMAIN-SUFFIX,coko.foundation,Proxy
   - DOMAIN-SUFFIX,uscardforum.com,Proxy
+  - DOMAIN-SUFFIX,geeksforgeeks.org,Proxy
 
   # Z-Library
   - DOMAIN-SUFFIX,singlelogin.re,Proxy
