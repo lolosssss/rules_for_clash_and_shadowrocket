@@ -689,6 +689,7 @@ rules:
   - DOMAIN-SUFFIX,coko.foundation,Proxy
   - DOMAIN-SUFFIX,uscardforum.com,Proxy
   - DOMAIN-SUFFIX,geeksforgeeks.org,Proxy
+  - DOMAIN-SUFFIX,slashdot.org,Proxy
 
   # Z-Library
   - DOMAIN-SUFFIX,singlelogin.re,Proxy
