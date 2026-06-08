@@ -202,7 +202,7 @@ rules:
   - DOMAIN-SUFFIX,developer.apple.com,Proxy
   - DOMAIN-SUFFIX,play-edge.itunes.apple.com,Proxy
   - DOMAIN-SUFFIX,known-issues.apple.com,Proxy
-  - DOMAIN-SUFFIX,hls-amt-itunes.apple.com,Proxy
+  - DOMAIN-SUFFIX,hls-amt.itunes.apple.com,Proxy
   - DOMAIN-SUFFIX,linear.tv.apple.com,Proxy
   - DOMAIN-SUFFIX,apple-mapkit.com,Proxy
 
