@@ -206,6 +206,9 @@ rules:
   - DOMAIN-SUFFIX,linear.tv.apple.com,Proxy
   - DOMAIN-SUFFIX,apple-mapkit.com,Proxy
 
+  - DOMAIN-SUFFIX,vjw.digital.go.jp,DIRECT
+  - DOMAIN,cognito-idp.ap-northeast-1.amazonaws.com,DIRECT
+
   # - DOMAIN,e.crashlytics.com,REJECT //注释此选项有助于大多数App开发者分析崩溃信息；如果您拒绝一切崩溃数据统计、搜集，请取消 # 注释。
 
   # 自定义规则
@@ -696,6 +699,8 @@ rules:
   - DOMAIN-SUFFIX,slashdot.org,Proxy
   - DOMAIN-SUFFIX,shueisha.co.jp,Proxy
   - DOMAIN-SUFFIX,flightyapp.com,Proxy
+  - DOMAIN-SUFFIX,vjw.digital.go.jp,DIRECT
+  - DOMAIN,cognito-idp.ap-northeast-1.amazonaws.com,DIRECT
 
   # Z-Library
   - DOMAIN-SUFFIX,singlelogin.re,Proxy
