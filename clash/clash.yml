@@ -699,8 +699,11 @@ rules:
   - DOMAIN-SUFFIX,slashdot.org,Proxy
   - DOMAIN-SUFFIX,shueisha.co.jp,Proxy
   - DOMAIN-SUFFIX,flightyapp.com,Proxy
-  - DOMAIN-SUFFIX,vjw.digital.go.jp,DIRECT
-  - DOMAIN,cognito-idp.ap-northeast-1.amazonaws.com,DIRECT
+  - DOMAIN-SUFFIX,paypal.com,Proxy
+  - DOMAIN-SUFFIX,cursor.com,Proxy
+  - DOMAIN-SUFFIX,cursor.sh,Proxy
+  - DOMAIN-SUFFIX,cursorapi.com,Proxy
+  - DOMAIN-SUFFIX,cursor-cdn.com,Proxy
 
   # Z-Library
   - DOMAIN-SUFFIX,singlelogin.re,Proxy
