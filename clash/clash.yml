@@ -700,6 +700,8 @@ rules:
   - DOMAIN-SUFFIX,shueisha.co.jp,Proxy
   - DOMAIN-SUFFIX,flightyapp.com,Proxy
   - DOMAIN-SUFFIX,paypal.com,Proxy
+  - DOMAIN-SUFFIX,mastodon.social,Proxy
+  - DOMAIN-SUFFIX,phncdn.com,Proxy
 
   # AI
   - DOMAIN-SUFFIX,openai.com,Proxy
