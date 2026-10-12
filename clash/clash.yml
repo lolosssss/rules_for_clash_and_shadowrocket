@@ -593,6 +593,10 @@ rules:
   - DOMAIN-SUFFIX,sourceforge.net,Proxy
   - DOMAIN-SUFFIX,spotify.com,Proxy
   - DOMAIN-SUFFIX,spotifycdn.com,Proxy
+  - DOMAIN-SUFFIX,tospotify.com,Proxy
+  - DOMAIN-SUFFIX,scdn.co,Proxy
+  - DOMAIN-SUFFIX,spoti.fi,Proxy
+  - DOMAIN-SUFFIX,spotify.link,Proxy
   - DOMAIN-SUFFIX,audio-ak-spotify-com.akamaized.net,Proxy
   - DOMAIN-SUFFIX,squarespace.com,Proxy
   - DOMAIN-SUFFIX,sstatic.net,Proxy
